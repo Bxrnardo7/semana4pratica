@@ -300,6 +300,10 @@ img {
         padding: 14px 16px;
     }
 
+    .menu {
+        width: 100%;
+    }
+
     .list-menu {
         margin-left: 0;
         flex-wrap: wrap;
@@ -310,7 +314,62 @@ img {
         grid-template-columns: 1fr;
     }
 
+    .newsletter {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .newsletter-form {
+        width: 100%;
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .newsletter-form .form-field,
+    .newsletter-form .form-button {
+        width: 100%;
+    }
+
     .footer-grid {
         grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 600px) {
+    .header-inner {
+        padding: 12px 14px;
+    }
+
+    .logo img {
+        height: 24px;
+    }
+
+    .list-menu {
+        gap: 0.6rem 0.9rem;
+    }
+
+    .list-menu a {
+        font-size: 0.9rem;
+    }
+
+    .hero {
+        min-height: 340px;
+    }
+
+    .hero-content {
+        padding: 24px 18px;
+    }
+
+    .newsletter {
+        padding: 24px 18px;
+    }
+
+    .newsletter-content h2 {
+        font-size: 1.4rem;
+    }
+
+    .site-footer {
+        padding-left: 18px;
+        padding-right: 18px;
     }
 }
