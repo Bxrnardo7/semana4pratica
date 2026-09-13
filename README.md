@@ -1,10 +1,19 @@
-Bernardo Almeida Andrade
+# Ipatinga Tour
+
+Bernardo Almeida Andrade  
 931797
-2. Lugares e Experiências	Lugar	Atividades / Eventos / Visitações	Museu e exposições, cidade e atrações, parques e trilhas
+
+## Descrição
 Basicamente um site para visitantes da cidade Ipatinga de Minas Gerais.
 
-![Homepage - Hero](images/esboco.png)
+## Versão Desktop
 
-![Homepage - Destaque](images/homepage1.png)
+![Homepage - Desktop 1](images/homepage1.png)
 
-![Homepage - Segunda imagem](images/homepage2.png)
+![Homepage - Desktop 2](images/homepage2.png)
+
+## Versão Mobile
+
+![Homepage - Mobile 1](images/mobile.png)
+
+![Homepage - Mobile 2](images/mobile1.png)
